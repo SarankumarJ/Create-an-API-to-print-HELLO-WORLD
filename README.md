@@ -1,6 +1,6 @@
 ## Ex-23 Create an API to print HELLO WORLD
 ## AIM:
-to Create an API to print HELLO WORLD using sping boot.
+To Create an API to print HELLO WORLD using sping boot.
 ## PROCEDURE:
 ### STEP 1:
 Generate the spring API using spring initializr.
